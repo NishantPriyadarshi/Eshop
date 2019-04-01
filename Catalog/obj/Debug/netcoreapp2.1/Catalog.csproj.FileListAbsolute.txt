@@ -1,0 +1,14 @@
+D:\02-EShop\Catalog\bin\Debug\netcoreapp2.1\Catalog.deps.json
+D:\02-EShop\Catalog\bin\Debug\netcoreapp2.1\Catalog.runtimeconfig.json
+D:\02-EShop\Catalog\bin\Debug\netcoreapp2.1\Catalog.runtimeconfig.dev.json
+D:\02-EShop\Catalog\bin\Debug\netcoreapp2.1\Catalog.dll
+D:\02-EShop\Catalog\bin\Debug\netcoreapp2.1\Catalog.pdb
+D:\02-EShop\Catalog\obj\Debug\netcoreapp2.1\Catalog.csproj.CoreCompileInputs.cache
+D:\02-EShop\Catalog\obj\Debug\netcoreapp2.1\Catalog.RazorAssemblyInfo.cache
+D:\02-EShop\Catalog\obj\Debug\netcoreapp2.1\Catalog.RazorAssemblyInfo.cs
+D:\02-EShop\Catalog\obj\Debug\netcoreapp2.1\Catalog.AssemblyInfoInputs.cache
+D:\02-EShop\Catalog\obj\Debug\netcoreapp2.1\Catalog.AssemblyInfo.cs
+D:\02-EShop\Catalog\obj\Debug\netcoreapp2.1\Catalog.RazorTargetAssemblyInfo.cache
+D:\02-EShop\Catalog\obj\Debug\netcoreapp2.1\Catalog.dll
+D:\02-EShop\Catalog\obj\Debug\netcoreapp2.1\Catalog.pdb
+D:\02-EShop\Catalog\obj\Debug\netcoreapp2.1\Catalog.csprojAssemblyReference.cache
